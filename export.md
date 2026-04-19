@@ -1,7 +1,10 @@
-<a href="index.html" style="text-decoration: none; color: #2E86AB; font-weight: bold;">← Voltar para o Portfólio</a>
+---
+layout: null
+---
+
+<a href="index.html" style="text-decoration: none; color: #2E86AB; font-weight: bold;">← Voltar para a Página Inicial</a>
 
 # #2 - API Vega-Lite - Exercícios
-
 ## Importando Gráficos criados no Observable e Vega-Lite
 
 ### Exercício 1
